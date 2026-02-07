@@ -42,6 +42,12 @@ L'application suit une architecture orientée objet avec les classes principales
 
 ---
 
+## Technologies utilisées
+
+  - Java 17
+  - Programmation orientée objet
+---
+
 ## Exemple d’utilisation
 
 ```java
